@@ -12,7 +12,6 @@ namespace SistemaDeTarefas.Data.Map
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Nome).IsRequired().HasMaxLength(100);
             builder.Property(x => x.Email).IsRequired().HasMaxLength(100);
-            
         }
     }
 }

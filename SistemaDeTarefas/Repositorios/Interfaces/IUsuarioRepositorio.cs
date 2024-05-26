@@ -9,5 +9,7 @@ namespace SistemaDeTarefas.Repositorios.Interfaces
         Task<UsuarioModel> Adicionar(UsuarioModel usuario);
         Task<UsuarioModel> Atualizar(UsuarioModel usuario, int id);
         Task<bool> Deletar(int id);
+        Task<UsuarioModel> BuscarUsuarioPorLogin(string login);
+
     }
 }

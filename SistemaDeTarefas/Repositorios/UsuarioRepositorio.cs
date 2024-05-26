@@ -2,6 +2,7 @@
 using SistemaDeTarefas.Models;
 using SistemaDeTarefas.Repositorios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using SistemaDeTarefas.Helper;
 using System;
 
 namespace SistemaDeTarefas.Repositorios
@@ -20,15 +21,40 @@ namespace SistemaDeTarefas.Repositorios
             return await _context.Usuarios.FirstOrDefaultAsync(u => u.Id == id);
         }
 
+        public async Task<UsuarioModel> BuscarUsuarioPorLogin(string login)
+        {
+            return await _context.Usuarios.FirstOrDefaultAsync(u => u.Login == login);
+        }
+
+        public async Task<UsuarioModel> BuscarUsuarioPorEmail(string email)
+        {
+            return await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
+        }
+
         public async Task<List<UsuarioModel>> BuscarUsuarios()
         {
             return await _context.Usuarios.ToListAsync();
         }
         public async Task<UsuarioModel> Adicionar(UsuarioModel usuario)
         {
-            await _context.Usuarios.AddAsync(usuario);
-            _context.SaveChanges();
-            return usuario;
+            if (usuario != null)
+            {
+                var usuarioPorEmail = await BuscarUsuarioPorEmail(usuario.Email);
+                if (usuarioPorEmail == null)
+                {
+                    var usuarioPorLogin = await BuscarUsuarioPorLogin(usuario.Login);
+                    if (usuarioPorLogin == null)
+                    {
+                        usuario.AlterarSenhaHash();
+                        await _context.Usuarios.AddAsync(usuario);
+                        await _context.SaveChangesAsync();
+                        return usuario;
+                    }
+                    throw new Exception("Login já cadastrado");
+                }
+                throw new Exception("Email já cadastrado");
+            }
+            throw new Exception("Erro ao adicionar o usuário");
         }
 
         public async Task<UsuarioModel> Atualizar(UsuarioModel usuario, int id)
@@ -41,6 +67,8 @@ namespace SistemaDeTarefas.Repositorios
 
             usuarioPorId.Nome = usuario.Nome;
             usuarioPorId.Email = usuario.Email;
+            usuarioPorId.Login = usuario.Login;
+            usuarioPorId.Senha = usuario.Senha;
             _context.Usuarios.Update(usuarioPorId);
             await _context.SaveChangesAsync();
             return usuarioPorId;
@@ -58,5 +86,6 @@ namespace SistemaDeTarefas.Repositorios
             await _context.SaveChangesAsync();
             return true;
         }
+
     }
 }

@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Refit;
 using SistemaDeTarefas.Models;
 using SistemaDeTarefas.Repositorios.Interfaces;
 
 namespace SistemaDeTarefas.Controllers
 {
+    [Microsoft.AspNetCore.Authorization.Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UsuarioController : ControllerBase
@@ -30,18 +32,18 @@ namespace SistemaDeTarefas.Controllers
             return Ok(usuarios);
         }
 
-        [HttpPost]
-        public async Task<ActionResult<UsuarioModel>> AdicionarUsuario([FromBody] UsuarioModel usuario)
-        {
-            UsuarioModel usuarioAdicionado = await _usuarioRepositorio.Adicionar(usuario);
-            return Ok(usuarioAdicionado);
-        }
-
         [HttpPut("{id}")]
         public async Task<ActionResult<UsuarioModel>> AtualizarUsuario(int id, [FromBody] UsuarioModel usuario)
         {
-            UsuarioModel usuarioAtualizado = await _usuarioRepositorio.Atualizar(usuario, id);
-            return Ok(usuarioAtualizado);
+            try
+            {
+                UsuarioModel usuarioAtualizado = await _usuarioRepositorio.Atualizar(usuario, id);
+                return Ok(usuarioAtualizado);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpDelete("{id}")]
