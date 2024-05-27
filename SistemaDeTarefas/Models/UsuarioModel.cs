@@ -9,7 +9,6 @@ namespace SistemaDeTarefas.Models
         public string? Email { get; set; }
         public string Login { get; set; }
         public string Senha { get; set; }
-
         public bool VerificarSenha(string senha)
         {
             return senha.GerarHash() == Senha;
@@ -18,5 +17,7 @@ namespace SistemaDeTarefas.Models
         {
             Senha = Senha.GerarHash();
         }
+
+
     }
 }
