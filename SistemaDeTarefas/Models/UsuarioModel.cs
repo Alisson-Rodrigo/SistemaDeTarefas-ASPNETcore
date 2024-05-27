@@ -1,4 +1,6 @@
-﻿namespace SistemaDeTarefas.Models
+﻿using SistemaDeTarefas.Helper;
+
+namespace SistemaDeTarefas.Models
 {
     public class UsuarioModel
     {
