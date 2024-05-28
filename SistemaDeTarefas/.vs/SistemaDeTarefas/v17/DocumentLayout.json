@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\controllers\\moedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:controllers\\moedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\dadosmoedasintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\dadosmoedasintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PurooLight\\AppData\\Roaming\\Microsoft\\UserSecrets\\8cd2d679-3ffa-447d-9c5a-2ab0dc032260\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\sistemadetarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\helper\\interfaces\\ienviaremailrecuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:helper\\interfaces\\ienviaremailrecuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\helper\\enviaremailrecuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:helper\\enviaremailrecuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\helper\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:helper\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\repositorios\\interfaces\\itarefasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:repositorios\\interfaces\\itarefasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\response\\dadosmoedasresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\response\\dadosmoedasresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\interfaces\\idadosmoedasintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\interfaces\\idadosmoedasintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\data\\sistemadetarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:data\\sistemadetarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Migrations\\20240526215357_MySql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240526215357_MySql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\sistemadetarefas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\integracacao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:integracacao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\repositorios\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:repositorios\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|c:\\users\\puroolight\\source\\repos\\sistemadetarefas\\migrations\\20240526223135_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18598D4D-A91A-44E2-B260-42EDD3724917}|SistemaDeTarefas.csproj|solutionrelative:migrations\\20240526223135_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\AppData\\Roaming\\Microsoft\\UserSecrets\\8cd2d679-3ffa-447d-9c5a-2ab0dc032260\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\8cd2d679-3ffa-447d-9c5a-2ab0dc032260\\secrets.json",
+              "ToolTip": "C:\\Users\\PurooLight\\AppData\\Roaming\\Microsoft\\UserSecrets\\8cd2d679-3ffa-447d-9c5a-2ab0dc032260\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\8cd2d679-3ffa-447d-9c5a-2ab0dc032260\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T21:20:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\AutenticacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutenticacaoController.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\AutenticacaoController.cs",
+              "RelativeToolTip": "Controllers\\AutenticacaoController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:13:32.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoedasController.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\MoedasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoedasController.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\MoedasController.cs",
+              "RelativeToolTip": "Controllers\\MoedasController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:31:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DadosMoedasIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\DadosMoedasIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracacao\\DadosMoedasIntegracao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\DadosMoedasIntegracao.cs",
+              "RelativeToolTip": "Integracacao\\DadosMoedasIntegracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:43:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IViaCepIntegracaoRefit.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "RelativeDocumentMoniker": "Integracacao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "RelativeToolTip": "Integracacao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:43:24.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeToolTip": "Controllers\\CepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:35:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:13:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:08:06.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T02:38:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:45:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemaDeTarefas.csproj",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+              "RelativeDocumentMoniker": "SistemaDeTarefas.csproj",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+              "RelativeToolTip": "SistemaDeTarefas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T17:21:08.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:24:24.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:41:40.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEnviarEmailRecuperacao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\Interfaces\\IEnviarEmailRecuperacao.cs",
+              "RelativeDocumentMoniker": "Helper\\Interfaces\\IEnviarEmailRecuperacao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\Interfaces\\IEnviarEmailRecuperacao.cs",
+              "RelativeToolTip": "Helper\\Interfaces\\IEnviarEmailRecuperacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:08:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnviarEmailRecuperacao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\EnviarEmailRecuperacao.cs",
+              "RelativeDocumentMoniker": "Helper\\EnviarEmailRecuperacao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\EnviarEmailRecuperacao.cs",
+              "RelativeToolTip": "Helper\\EnviarEmailRecuperacao.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:07:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:11:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "Controllers\\TarefasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:55:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmailModel.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\EmailModel.cs",
+              "RelativeToolTip": "Models\\EmailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:24:09.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Helper\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Helper\\Criptografia.cs",
+              "RelativeToolTip": "Helper\\Criptografia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:38:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:21:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITarefasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\Interfaces\\ITarefasRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\ITarefasRepositorio.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\Interfaces\\ITarefasRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\ITarefasRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:33:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DadosMoedasResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Response\\DadosMoedasResponse.cs",
+              "RelativeDocumentMoniker": "Integracacao\\Response\\DadosMoedasResponse.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Response\\DadosMoedasResponse.cs",
+              "RelativeToolTip": "Integracacao\\Response\\DadosMoedasResponse.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:02:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDadosMoedasIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Interfaces\\IDadosMoedasIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracacao\\Interfaces\\IDadosMoedasIntegracao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Interfaces\\IDadosMoedasIntegracao.cs",
+              "RelativeToolTip": "Integracacao\\Interfaces\\IDadosMoedasIntegracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:42:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracacao\\Interfaces\\IViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeToolTip": "Integracacao\\Interfaces\\IViaCepIntegracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:55:03.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\ViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracacao\\ViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\ViaCepIntegracao.cs",
+              "RelativeToolTip": "Integracacao\\ViaCepIntegracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:55:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TarefaModel.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\TarefaModel.cs",
+              "RelativeDocumentMoniker": "Models\\TarefaModel.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Models\\TarefaModel.cs",
+              "RelativeToolTip": "Models\\TarefaModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:22:54.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SistemaDeTarefasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\SistemaDeTarefasDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\SistemaDeTarefasDbContext.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\SistemaDeTarefasDbContext.cs",
+              "RelativeToolTip": "Data\\SistemaDeTarefasDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:33:38.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240526223135_MySql.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Migrations\\20240526223135_MySql.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526223135_MySql.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Migrations\\20240526223135_MySql.cs",
+              "RelativeToolTip": "Migrations\\20240526223135_MySql.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:31:35.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240526215357_MySql.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Migrations\\20240526215357_MySql.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526215357_MySql.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Migrations\\20240526215357_MySql.cs",
+              "RelativeToolTip": "Migrations\\20240526215357_MySql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:53:57.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SistemaDeTarefas",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+              "RelativeDocumentMoniker": "SistemaDeTarefas.csproj",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+              "RelativeToolTip": "SistemaDeTarefas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T17:57:00.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Response\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "Integracacao\\Response\\ViaCepResponse.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Integracacao\\Response\\ViaCepResponse.cs",
+              "RelativeToolTip": "Integracacao\\Response\\ViaCepResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:39:09.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StatusTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Enums\\StatusTarefa.cs",
+              "RelativeDocumentMoniker": "Enums\\StatusTarefa.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Enums\\StatusTarefa.cs",
+              "RelativeToolTip": "Enums\\StatusTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:20:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\TarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TarefaRepositorio.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Repositorios\\TarefaRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\TarefaRepositorio.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:37:18.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:22:45.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TarefaMap.cs",
+              "DocumentMoniker": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\TarefaMap.cs",
+              "ToolTip": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
+              "RelativeToolTip": "Data\\Map\\TarefaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:24:31.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
