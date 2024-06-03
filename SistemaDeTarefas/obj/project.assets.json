@@ -4597,11 +4597,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "projectName": "SistemaDeTarefas",
-      "projectPath": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectPath": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "packagesPath": "C:\\Users\\PurooLight\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\obj\\",
+      "outputPath": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

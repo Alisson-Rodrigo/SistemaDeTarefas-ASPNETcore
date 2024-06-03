@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W9cajZMkrgXgTKNU4D9AFKM6HLNs30AvP330Y2NafT/OxnAEJRmxrDwsjJPgGgGMt8gf4oOF1TfjZn9+BglQKA==",
+  "dgSpecHash": "kFPuWnChCB6elwJUu2m/Hisz/ZFO4mGXZB+cCLjkITyEWyvIAkCwx0Xpvxu3WcJhcedw4j0FbaVcdci3cPaxbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PurooLight\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+  "projectFilePath": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PurooLight\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PurooLight\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
