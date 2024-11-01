@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {}
+    "C:\\Users\\purolight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {
+    "C:\\Users\\purolight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\purolight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
         "projectName": "SistemaDeTarefas",
-        "projectPath": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
-        "packagesPath": "C:\\Users\\PurooLight\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PurooLight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\obj\\",
+        "projectPath": "C:\\Users\\purolight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+        "packagesPath": "C:\\Users\\purolight\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\purolight\\Documents\\GitHub\\SistemaDeTarefas-ASPNETcore\\SistemaDeTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PurooLight\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\purolight\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
